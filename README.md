@@ -12,12 +12,11 @@ https://www.kaggle.com/sobhanmoosavi/us-accidents
 The dataset contains 2.25 million records of accidents in the United States from 2016 to 2021. The data contains information about the location, severity, and other details of the accidents.
 
 ## Tools Used
-Python 3.8
-Jupyter Notebook
-Pandas
-Matplotlib
-Seaborn
-Files
+-Python 3.8
+-Jupyter Notebook
+-Pandas
+-Matplotlib
+-Seaborn
 
 ## Conclusion
 Through this analysis, we were able to gain insights into the patterns and trends of accidents in the United States from 2016 to 2020. The analysis showed that most accidents occurred in urban areas, during peak traffic hours, and in clear weather conditions. The severity of accidents was also found to be higher on highways and interstates.
