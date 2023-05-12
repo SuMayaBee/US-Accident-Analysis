@@ -4,7 +4,7 @@ This repository contains a data analysis project focused on the US Accident Anal
 ## Project Overview
 The primary objective of this project is to conduct an exploratory data analysis (EDA) to uncover patterns and trends in accidents throughout the years. To better understand the data and identify correlations and patterns, the project also incorporates visualizations.
 
-**Note**: Due to the large size of the dataset and us_accidents_analysis.ipynb file, it cannot be directly displayed on GitHub. Please visit the provided Kaggle link to access the dataset and download the us_accidents_analysis.ipynb file to watch that.
+**Note**: Due to the large size of the dataset and us_accidents_analysis.ipynb file, it cannot be directly displayed on GitHub. Please visit the provided Kaggle link to access the dataset and download the us_accidents_analysis.ipynb file to see the code.
 
 ## Dataset
 The dataset employed in this project can be found on Kaggle via this link:
