@@ -1,5 +1,5 @@
 # US Accident Analysis Data Analysis from Kaggle
-This repository contains a data analysis project on the US Accident Analysis dataset available on Kaggle. The dataset contains information about accidents in the United States from 2016 to 2020.
+This repository contains a data analysis project on the US Accident Analysis dataset available on Kaggle. The dataset contains information about accidents in the United States from 2016 to 2021.
 
 ## Project Overview
 The goal of this project was to explore the dataset and perform an exploratory data analysis (EDA) to gain insights into the patterns and trends in accidents over the years. The project also aimed to create visualizations to help understand the data better and identify any correlations and patterns.
